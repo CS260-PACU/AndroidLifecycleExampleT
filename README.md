@@ -17,6 +17,8 @@
 * Run App on the Emulator
   * You should see onCreate(), onStart(), onResume() in Logcat
 
+![LogCat Image](images/logcat.png)
+
 ### Common Problems
 
 * Make sure Logcat is connected to the correct Emulator (not a previous run)
