@@ -13,7 +13,7 @@
   * View | Tool Windows | Log Cat
 * Filter Logcat messages:
   * Message Level Dropdown: Debug
-  * Search Box: D/LIFECYCLE
+  * Search Box: tag:LIFECYCLE
 * Run App on the Emulator
   * You should see onCreate(), onStart(), onResume() in Logcat
 
